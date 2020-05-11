@@ -1,0 +1,23 @@
+@import './normalize.css';
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    position: relative;
+    width: 1190px;
+    margin: 0 auto;
+}
+
+input{
+    border: none;
+    outline: none;
+    /* background-color: rgba(0, 0, 0, 0) */
+}
